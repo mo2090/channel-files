@@ -1,0 +1,109 @@
+{
+  "version": "1.0",
+
+  "channel_files": {
+
+    "nilesat_ar": {
+      "title": "نايل سات عربي",
+      "fileName": "nilesat_ar.bin",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "nilesat_en": {
+      "title": "نايل سات انجليزي",
+      "fileName": "nilesat_en.bin",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "nilesat_ar_scan": {
+      "title": "نايل سات عربي مسحي",
+      "fileName": "nilesat_ar_scan.bin",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "nilesat_en_scan": {
+      "title": "نايل سات انجليزي مسحي",
+      "fileName": "nilesat_en_scan.bin",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "nilesat_islamic": {
+      "title": "نايل سات اسلامي",
+      "fileName": "nilesat_islamic.bin",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "gx_processor": {
+      "title": "معالج GX",
+      "fileName": "gx.abs",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "astra": {
+      "title": "Astra",
+      "fileName": "astra.bin",
+      "version": "1.0",
+      "url": ""
+    }
+
+  },
+
+  "software": {
+
+    "senator_9900_max": {
+      "title": "Senator 9900 Max",
+      "fileName": "Senator_9900_Max.abs",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "senator_999": {
+      "title": "Senator 999",
+      "fileName": "Senator_999.abs",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "senator_888_hd": {
+      "title": "Senator 888 HD",
+      "fileName": "Senator_888_HD.abs",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "senator_mini": {
+      "title": "Senator Mini",
+      "fileName": "Senator_Mini.abs",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "senator_h7": {
+      "title": "Senator H7",
+      "fileName": "Senator_H7.abs",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "tiger_1506hv_8m": {
+      "title": "Tiger 1506HV 8M",
+      "fileName": "Tiger_1506HV_8M.abs",
+      "version": "1.0",
+      "url": ""
+    },
+
+    "tiger_1506hv_4m": {
+      "title": "Tiger 1506HV 4M",
+      "fileName": "Tiger_1506HV_4M.abs",
+      "version": "1.0",
+      "url": ""
+    }
+
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "أطفال",
+    "file": "https://raw.githubusercontent.com/mo2090/channel-files/refs/heads/main/kids.json",
+    "icon": "kids"
+  },
+  {
+    "id": 2,
+    "name": "رياضة",
+    "file": "https://raw.githubusercontent.com/mo2090/channel-files/refs/heads/main/sports.json",
+    "icon": "sports"
+  },
+  {
+    "id": 3,
+    "name": "أفلام",
+    "file": "https://raw.githubusercontent.com/mo2090/channel-files/refs/heads/main/movies.json",
+    "icon": "movies"
+  },
+  {
+    "id": 4,
+    "name": "مسلسلات",
+    "file": "https://raw.githubusercontent.com/mo2090/channel-files/refs/heads/main/series.json",
+    "icon": "series"
+  },
+  {
+    "id": 5,
+    "name": "ديني",
+    "file": "https://raw.githubusercontent.com/mo2090/channel-files/refs/heads/main/religion.json",
+    "icon": "religion"
+  },
+  {
+    "id": 6,
+    "name": "أخبار",
+    "file": "https://raw.githubusercontent.com/mo2090/channel-files/refs/heads/main/news.json",
+    "icon": "news"
+  },
+  {
+    "id": 7,
+    "name": "موسيقى",
+    "file": "https://raw.githubusercontent.com/mo2090/channel-files/refs/heads/main/music.json",
+    "icon": "music"
+  },
+  {
+    "id": 8,
+    "name": "وثائقي",
+    "file": "https://raw.githubusercontent.com/mo2090/channel-files/refs/heads/main/documentary.json",
+    "icon": "documentary"
+  },
+  {
+    "id": 9,
+    "name": "طبخ",
+    "file": "https://raw.githubusercontent.com/mo2090/channel-files/refs/heads/main/cooking.json",
+    "icon": "cooking"
+  },
+  {
+    "id": 10,
+    "name": "منوعات",
+    "file": "https://raw.githubusercontent.com/mo2090/channel-files/refs/heads/main/variety.json",
+    "icon": "variety"
+  }
+]
